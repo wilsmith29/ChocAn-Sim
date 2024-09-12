@@ -1,0 +1,10 @@
+Member Name    : Paul Klinko
+Member Number  : 345678940
+Street Address : Paul Klinko
+City           : 13164 SE Fieldcrest Dr
+State          : Milwaukie
+Zip Code       : OR
+
+Service Date        Provider Name       Service Name        Service Code        
+02-28-2024          Joshua Hunter       Self-Care Training  100007              
+

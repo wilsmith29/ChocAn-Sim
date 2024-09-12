@@ -1,0 +1,17 @@
+654322|Therapeutic Exercise|125
+100002|Neuromuscular Re-education|100
+100003|Gait Training|97
+100004|Manual Therapy|145
+100005|Group Therapy|95
+100006|Therapeutic Activities|100
+100007|Self-Care Training|110
+100008|Physical Performance|90
+100009|Prosthetic Training|145
+100010|Orthotic/Prosthetic Use|175
+100011|Psychotherapy 60 minutes|195
+100012|Psychotherapy 45 minutes|145
+100013|Psychiatric diagnostic evaluation|200
+100014|Family psychotherapy|225
+100015|Group psychotherapy|124
+100016|Aubstance abuse services|125
+100017|Choclate Addition Therapy|135

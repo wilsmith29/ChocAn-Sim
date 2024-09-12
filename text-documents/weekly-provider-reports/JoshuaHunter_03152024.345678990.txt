@@ -1,0 +1,12 @@
+First Name     : Joshua Hunter
+Street Address : 11977 Meeker Dr
+City           : Kalama
+State          : WA
+Zip Code       : 98625
+
+Service Date        Record Date            Member Name         Member #       Service Code   Service Fee    
+02-28-2024          02-28-2024 12:02:01    Azianara Woods      345678937      100017         135.00         
+02-28-2024          02-28-2024 12:02:01    Paul Klinko         345678940      100007         110            
+
+Total number of consultations : 2
+Total fee for the week        : 245

@@ -1,0 +1,10 @@
+ServiceCode|ServiceDate|ServiceName|ServiceFee|CreationDate|ProviderNumber|ProviderName|Provider Address|ProviderCity|ProviderState|ProviderZipCode|MemberNumber|MemberName|MemberAddress|MemberCity|MemberState|MemberZipCode
+100017|02-28-2024|Choclate Addition Therapy|135.00|02-28-2024 12:02:01|345678990|Joshua Hunter|11977 Meeker Dr|Kalama|WA|98625|345678937|Azianara Woods|13182 NW Florence Ave|Grasham|OR|97230
+100007|02-28-2024|Self-Care Training|110|02-28-2024 12:02:01|345678990|Joshua Hunter|11977 Meeker Dr|Kalama|WA|98625|345678940|Paul Klinko|13164 SE Fieldcrest Dr|Milwaukie|OR|97222
+100017|04-05-2024|Choclate Addition Therapy|135.00|03-15-2024 23:10:30|345678990|Joshua Hunter|11977 Meeker Dr|Kalama|WA|98625|345678972|Keturah Lavorgna|12973 N Third St|Jefferson|OR|97352
+100003|09-09-2026|Gait Training|97.00|03-15-2024 23:11:20|345678990|Joshua Hunter|11977 Meeker Dr|Kalama|WA|98625|345678972|Keturah Lavorgna|12973 N Third St|Jefferson|OR|97352
+100017|03-30-2026|Choclate Addition Therapy|135.00|03-15-2024 23:12:34|345678990|Joshua Hunter|11977 Meeker Dr|Kalama|WA|98625|345678972|Keturah Lavorgna|12973 N Third St|Jefferson|OR|97352
+100017|04-04-2024|Choclate Addition Therapy|135.00|03-15-2024 23:13:20|345678990|Joshua Hunter|11977 Meeker Dr|Kalama|WA|98625|345678972|Keturah Lavorgna|12973 N Third St|Jefferson|OR|97352
+100017|04-04-2004|Choclate Addition Therapy|135.00|03-15-2024 23:16:12|345678990|Joshua Hunter|11977 Meeker Dr|Kalama|WA|98625|345678972|Keturah Lavorgna|12973 N Third St|Jefferson|OR|97352
+100015|04-04-2024|Group psychotherapy|124.00|03-15-2024 23:20:06|345678990|Joshua Hunter|11977 Meeker Dr|Kalama|WA|98625|345678971|Bradley Chastain|12974 SE 4th St|Troutdale|OR|97060
+100017|04-04-2024|Choclate Addition Therapy|135.00|03-15-2024 23:21:46|345678990|Joshua Hunter|11977 Meeker Dr|Kalama|WA|98625|345678972|Keturah Lavorgna|12973 N Third St|Jefferson|OR|97352

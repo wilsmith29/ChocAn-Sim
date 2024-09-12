@@ -1,0 +1,97 @@
+345678901|Sahardiid|Buuni|Active|MANAGER|12249 Astronaut Ave NE|Salem|OR|97305
+345678902|Davontay|Banks|Active|MANAGER|12249 NE 55th Avenue|Portland|OR|97213
+345678903|Michael|Hillis|Active|MANAGER|12210  SE 105th Ave|Portland|OR|97266
+345678904|Artemio|Idelbong|Active|MANAGER|12210 NE Sacramento St|Portland|OR|97213
+345678905|Christine|Pettefer|Active|MANAGER|12203 NE Red Sunset Dr Apt 238|Gresham|OR|97030
+345678906|Gloire|Binja|Active|MANAGER|12203 SE Morrison Ter E2033|Gresham|OR|97030
+345678907|Jamie|Stein|Active|MANAGER|12191 Box 30412|Portland|OR|97294
+345678908|Todd|Ourston|Active|MANAGER|12190 SE 60th Ave|Portland|OR|97215
+345678909|Charles|Button|Active|MANAGER|12190 Fir Grove Ln|Stayton|OR|97383
+345678910|Shannon|Sprague|Active|MEMBER|13435 NE 86th Ave|Portland|OR|97220
+345678911|Ezechiel|Nzambinana|Active|MEMBER|13419 W Burnside St|Portland|OR|97209
+345678912|Astra|Togbah|Active|MEMBER|13399 NE 122nd Ave Apt 50|Portland|OR|97230
+345678913|Gia|Pham|Active|MEMBER|13397 SE Augusta Pl|Gresham|OR|97080
+345678914|Scott|Bishel|Suspended|MEMBER|13393 NW Ridgetop Ln|Beaverton|OR|97006
+345678915|John|Homsombath|Active|MEMBER|13391 SE 22nd Terr|Gresham|OR|97080
+345678916|Akila|Daghsen|Active|MEMBER|13391 NE 72nd St|Vancouver|WA|98662
+345678917|Phillip|Kearney|Active|MEMBER|13367 Quinalt Drive|Oregon City|OR|97045
+345678918|Joshua|Aten|Active|MEMBER|13312 169th St|Puyallup|WA|98375
+345678919|Valvertha|Ferguson|Active|MEMBER|13296 SW Summerview Dr.|Tigard|OR|97224
+345678920|Georgia|Dumble|Active|MEMBER|13296 NE 57th Ave|Vancouver|WA|98661
+345678921|Ebony|Ellett|Active|MEMBER|13279 Se Powell Blvd #6|Portland|OR|97236
+345678922|Parviz|Ebrahimi|Active|MEMBER|13275 SW Iron Horse Ln Apt 23|Beaverton|OR|97008
+345678923|John|Penny|Active|MEMBER|13269 West 17th Pl|Yuma|AZ|85364
+345678924|Perry|Everett|Active|MEMBER|13269 SE Highway 224|Boring|OR|97009
+345678925|Sebastien|Fredrick|Active|MEMBER|13255 SW Park Ave Apt 47|Portland|OR|97201
+345678926|River|Englert|Active|MEMBER|13247 NE Holladay St. #403|Portland|OR|97232
+345678927|William|Ball|Active|MEMBER|13236 SE 181ST AVE|Portland|OR|97233
+345678928|Marc|Rose|Active|MEMBER|13209 NE Hoyt St|Portland|OR|97213
+345678929|Andrew|Diaz|Active|MEMBER|13205 E 7th St. Apt. 106|Vancouver|WA|98660
+345678930|Maria|Thomas|Active|MEMBER|13199 SE 128th Ave|Portland|OR|97236
+345678931|Michael|Moret|Active|MEMBER|13199 Knaus Rd|Lake Oswego|OR|97034
+345678932|Shanon|Dean|Active|MEMBER|13199 SE Oak St|Beaverton|OR|97007
+345678933|Nicholas|Hatzipavlou|Active|MEMBER|13199 NE 91st Ave|Portland|OR|97220
+345678934|Gregg|Metternich|Active|MEMBER|13196 SW Cougar Ridge Dr|Beaverton|OR|97008
+345678935|Mahmoud|El-Naser|Active|MEMBER|13196 SW Crestridge Ct.|Tigard|OR|97224
+345678936|Michael|Burns|Active|MEMBER|13190 NE 39th Ave|Vancouver|WA|98665
+345678937|Azianara|Woods|Active|MEMBER|13182 NW Florence Ave Unit 114|Gresham|OR|97030
+345678938|Ian|Wood|Active|MEMBER|13173 SW Alder St #613|Portland|OR|97205
+345678939|Levi|Waddell|Active|MEMBER|13168 Chestnut St. Apt 5|West Linn|OR|97068
+345678940|Paul|Klinko|Active|MEMBER|13164 SE Fieldcrest Dr|Milwaukie|OR|97222
+345678941|Alan|Erspamer|Active|MEMBER|13162 SE Mcloughlin #4|Milwaukie|OR|97222
+345678942|Samanda|Reyes-Calva|Active|MEMBER|13146 Beavercreek Rd #36|Oregon City|OR|97045
+345678943|Jalyn|Duffield|Active|MEMBER|13144 SE 122nd Ave Apt 44|Portland|OR|97233
+345678944|Rachel|Force|Active|MEMBER|13142 S Archer Dr|Oregon City|OR|97045
+345678945|Isiah|Tucker|Active|MEMBER|13126 SE Quail Cir|Hillsboro|OR|97123
+345678946|Bradley|Dahm|Active|MEMBER|13122 SE Stark St #408|Portland|OR|97214
+345678947|Martha|Nelson|Active|MEMBER|13121 SE 171st Ave|Portland|OR|97233
+345678948|Myquinta|Walker|Active|MEMBER|13116 NE 139th Ave|Vancouver|WA|98682
+345678949|Alexander|Martin|Active|MEMBER|13086 SW Vista Ave|Portland|OR|97205
+345678950|Ashley|Fenner|Active|MEMBER|13086 NE 2nd St|Hillsboro|OR|97124
+345678951|Austin|Wiens|Active|MEMBER|13080 NE 7th Ave|Portland|OR|97211
+345678952|Elijah|Williams|Active|MEMBER|13070 NE Halsey St Apt-116|Fairview|OR|97024
+345678953|Fernando|Osorio|Active|MEMBER|13068 SE 4th St|Gresham|OR|97080
+345678954|Heather|Gwen|Active|MEMBER|13067 Allen Street #94|Kelso|WA|98626
+345678955|Raheem|Alexzander|Active|MEMBER|13062 NE Fremont St|Portland|OR|97212
+345678956|Matthew|Andersen|Active|MEMBER|13061 NE Oregon Street|East Portland|OR|97220
+345678957|Zachary|Lesher|Active|MEMBER|13060 SE 13th Ave|Portland|OR|97214
+345678958|Daniel|Temesgen|Active|MEMBER|13059 SW 163rd Ter|Portland|OR|97223
+345678959|Gabrielle|Marshak|Active|MEMBER|13055 NW Old Skyline Blvd|Portland|OR|97231
+345678960|Hilaire|Pettit|Active|MEMBER|13050 SW Alder St|Portland|OR|97205
+345678961|Ian|Sayre|Active|MEMBER|13045 NE 38th Ave|Hillsboro|OR|97124
+345678962|Ryan|Soper|Active|MEMBER|13042 E Kansas City St|Rapid City|SD|57701
+345678963|Michael|MacNeil|Active|MEMBER|13034 SE 93rd Ave|Portland|OR|97266
+345678964|Rosalyn|Garner|Active|MEMBER|13034 NE Carlaby Way #163|Hillsboro|OR|97124
+345678965|Silas|Moulton|Active|MEMBER|13033 SE 58th Ave|Portland|OR|97206
+345678966|Aleksi|Kruger|Active|MEMBER|13029 NW Mountain View Rd|Portland|OR|97231
+345678967|Jacob|Milanek|Active|MEMBER|12983 SW 181st PL|Aloha|OR|97007
+345678968|Hilarion|Chavez Garfias|Active|MEMBER|12974 SW Scoggins Valley Rd|Gaston|OR|97119
+345678969|Jonathan|Schmidt|Active|MEMBER|12974 SE Harold St|Portland|OR|97266
+345678970|Erin|Wiser|Active|MEMBER|12974 NE 114th Ave|Portland|OR|97220
+345678971|Bradley|Chastain|Active|MEMBER|12974 SE 4th St|Troutdale|OR|97060
+345678972|Keturah|Lavorgna|Active|MEMBER|12973 N Third St|Jefferson|OR|97352
+345678973|Matthew|Butler|Active|PROVIDER|12182 5th Ave N|Seattle|WA|98104
+345678974|Geoffrey|Thompson|Active|PROVIDER|12176 SW 3rd Ave. Apt 337|Portland|OR|97204
+345678975|Meredith|Hachemeister|Active|PROVIDER|12176 NE 48th Ave|Portland|OR|97213
+345678976|Susan|Knoke|Active|PROVIDER|12176 NW Everett St|Portland|OR|97209
+345678977|Robert|Avila|Active|PROVIDER|12175 SW Maplewood Dr|Tigard|OR|97223
+345678978|Michael|Antrim|Active|PROVIDER|12175 NE Benton Dr|Vancouver|WA|98662
+345678979|Nicholas|Sinkewitsch|Active|PROVIDER|12175 SE King Rd #280|Milwaukie|OR|97222
+345678980|Tiler|Baeckel|Active|PROVIDER|12174 SE 90th Ave|Happy Valley|OR|97086
+345678981|Louise|Lopes|Active|PROVIDER|12164 S Beavercreek Rd|Mulino|OR|97042
+345678982|Samantha|Schutter|Active|PROVIDER|12140 N Williams Ave|Portland|OR|97217
+345678983|Asante|Coleman|Active|PROVIDER|12099 SE 169th Ave|Happy Valley|OR|97086
+345678984|Kent|Sheets|Active|PROVIDER|12098 NE Greenway Dr|Gresham|OR|97030
+345678985|Andrea|Sanchez|Active|PROVIDER|12098 N Woolsey Ave|Portland|OR|97203
+345678986|Amina|Griffin|Active|PROVIDER|11981 N Fiske Ave|Portland|OR|97203
+345678987|Scott Ryan|Abbe|Active|PROVIDER|11978 NE Glisan St #263|Fairview|OR|97024
+345678988|Rizk|Hanna|Active|PROVIDER|11977 SE 10th St|Gresham|OR|97080
+345678989|Casey|Goldsby|Active|PROVIDER|11977 SE Brookwood Ave|Hillsboro|OR|97123
+345678990|Joshua|Hunter|Active|PROVIDER|11977 Meeker Dr|Kalama|WA|98625
+345678991|Andres|Giesemann|Active|PROVIDER|11977 SW 60th Ct|Portland|OR|97219
+345678992|Nathan|Mosley|Active|PROVIDER|11957 E 11th St|Vancouver|WA|98661
+345678993|Shawn|McClure|Active|PROVIDER|11933 SE Hayward Way|Milwaukie|OR|97267
+345678994|Nenshe|Hilliard|Active|PROVIDER|11933 SE Gladstone St|Portland|OR|97266
+345678995|David|Kelly|Active|PROVIDER|11933 SE Glacier Ave|Gresham|OR|97080
+345678996|Vinh|Nguyen|Active|PROVIDER|11933 SW Lois St|Beaverton|OR|97003
+345678997|Aurora|Alder|Active|PROVIDER|12058 SW Sweek Dr|Tualatin|OR|97062
